@@ -5,7 +5,7 @@
 </template>
 
 <script>
-import tweetPage from "../src/components/tweetPage.vue";
+import tweetPage from "@/components/tweetPage.vue";
 
 export default {
   name: "App",
